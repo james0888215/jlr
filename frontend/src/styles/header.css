@@ -1,0 +1,11 @@
+.logo {
+    position: absolute;
+    max-width: 300px;
+    top: -100px;
+    z-index: -99;
+}
+
+.header-wrapper {
+    height: 100px;
+    border-bottom: solid 1px #c9bcbc;
+}
